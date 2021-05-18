@@ -22,7 +22,7 @@ const SearchBox = ({ history }) => {
       />
       <InputGroup.Append>
         <Button variant="primary" onClick={submitHandler}>
-          <i className="fas-fa-search"></i>
+          <i className="fas fa-search"></i>
         </Button>
       </InputGroup.Append>
     </InputGroup>
